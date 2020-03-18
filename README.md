@@ -29,3 +29,9 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 For information about the licenses that apply to a particular sample, see the License and README.md files in each subdirectory. 
 
+Softmax classifier: https://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/  
+
+Cifar10 in TensorFlow: https://towardsdatascience.com/cifar-10-image-classification-in-tensorflow-5b501f7dc77c  
+
+Cifar10 tutorial Caffe: https://caffe.berkeleyvision.org/gathered/examples/cifar10.html  
+
